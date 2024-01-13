@@ -26,15 +26,15 @@ I am broadly interested in storage systems and database systems.
 ## Publications
 1. **PivotRepair: Fast Pipelined Repair for Erasure-Coded Hot Storage**<br>
   <ins>Qiaori Yao</ins>, Yuchong Hu, Xinyuan Tu, Patrick P. C. Lee, Dan Feng, Xia Zhu, Xiaoyang Zhang, Zhen Yao, Wenjia Wei<br>
-  42nd IEEE International Conference on Distributed Computing Systems, ***ICDCS 2022***<br>
+  *42nd IEEE International Conference on Distributed Computing Systems, ICDCS 2022*<br>
   [[pdf](/files/icdcs22.pdf)] [[slides](/files/icdcs22_slides.pdf)] [[repo](https://github.com/YuchongHu/PivotRepair)]
 2. **StripeMerge: Efficient Wide-Stripe Generation for Large-Scale Erasure-Coded Storage** <br>
   <u>Qiaori Yao</u>, Yuchong Hu, Liangfeng Cheng, Patrick P. C. Lee, Dan Feng, Weichun Wang, Wei Chen<br>
-  41st IEEE International Conference on Distributed Computing Systems, ***ICDCS 2021***<br>
+  *41st IEEE International Conference on Distributed Computing Systems, ICDCS 2021*<br>
   [[pdf](/files/icdcs21.pdf)] [[slides](/files/icdcs21_slides.pdf)] [[repo](https://github.com/YuchongHu/stripe-merge)]
 3. **Exploiting Combined Locality for Wide-Stripe Erasure Coding in Distributed Storage** <br>
   Yuchong Hu, Liangfeng Cheng, <ins>Qiaori Yao</ins>, Patrick P. C. Lee, Weichun Wang, Wei Chen<br>
-  19th USENIX Conference on File and Storage Technologies, ***FAST 2021***<br>
+  *19th USENIX Conference on File and Storage Technologies, FAST 2021*<br>
   [[pdf](/files/fast21.pdf)] [[slides](/files/fast21_slides.pdf)] [[repo](https://github.com/YuchongHu/ecwide)]
 
 ## Research Experience
