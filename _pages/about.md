@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qiaori Yao (姚乔日), and now I work as a software engineer at *[WeChat](https://www.wechat.com/en/), [Tencent](https://www.tencent.com/en-us)*. My recent work primarily focuses on distributed KV storage systems.
+My name is Qiaori Yao (姚乔日), and now I work as a software engineer at *[WeChat](https://www.wechat.com/en/), [Tencent](https://www.tencent.com/en-us)* in China. My recent work primarily focuses on distributed KV storage systems.
 
 Before joining Tencent, I received my M.Sc. in Computer System Architecture from [*Huazhong University of Science and Technology*](https://english.hust.edu.cn/) in 2022. During my master’s studies, I worked on improving the performance of repairing and scaling in erasure-coded storage systems with [Prof. Yuchong Hu](http://yuchonghu.com) as my advisor. I was also honored to have worked with [Prof. Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/www/index.html) from CUHK. Previously, I obtained my B.Eng. in Computer Science and Technology from [*Lanzhou University*](https://en.lzu.edu.cn/) in 2019.
 
-I am broadly interested in storage systems and database systems.
+I am broadly interested in storage and database systems.
 
 
 ## Education
