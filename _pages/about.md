@@ -58,3 +58,11 @@ I am broadly interested in storage and database systems.
 - **Programming Languages**: C/C++, Python, Java, SQL, Bash
 - **Operating Systems**: Linux
 - **Tools**: Git, GDB, Bazel, Docker, Latex
+
+## Referees
+- [Prof. Yuchong Hu](http://yuchonghu.com)<br>
+  *Huazhong University of Science and Technology*<br>
+  yuchonghu[at]hust.edu.cn
+- [Prof. Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/www/index.html)<br>
+  *The Chinese University of Hong Kong*<br>
+  pclee[at]cse.cuhk.edu.hk
